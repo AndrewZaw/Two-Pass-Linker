@@ -1,5 +1,5 @@
 # Two-Pass-Linker
-Two Pass Linker written in Python 2.7
+*Operating Systems Spring 2019*
 
 This python program takes in an input and returns the Symbol Table and Memory Map. 
 
